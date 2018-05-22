@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 2\lab2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 2\lab2\lab2c_multiple.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 2\lab2\Debug\lab2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab2.map</FILE>
+  <FILE>lab2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 2\lab2\lab2c_multiple.asm</FILE><LINE>16</LINE></MAIN>
+  <LOOP><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 2\lab2\lab2c_multiple.asm</FILE><LINE>27</LINE></LOOP>
+  <Delay_mult><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 2\lab2\lab2c_multiple.asm</FILE><LINE>36</LINE></Delay_mult>
+  <REPEAT><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 2\lab2\lab2c_multiple.asm</FILE><LINE>40</LINE></REPEAT>
+  <Delay_10ms><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 2\lab2\lab2c_multiple.asm</FILE><LINE>51</LINE></Delay_10ms>
+  <DONE><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 2\lab2\lab2c_multiple.asm</FILE><LINE>47</LINE></DONE>
+  <START><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 2\lab2\lab2c_multiple.asm</FILE><LINE>56</LINE></START>
+  <HI><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 2\lab2\lab2c_multiple.asm</FILE><LINE>59</LINE></HI>
+  <SECOND><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 2\lab2\lab2c_multiple.asm</FILE><LINE>65</LINE></SECOND>
+  <rdone><FILE>C:\Users\pengz\OneDrive\Documents\uP Labs\Lab 2\lab2\lab2c_multiple.asm</FILE><LINE>71</LINE></rdone>
+ </LABELS>
+</ASSEMBLER_INFO>
